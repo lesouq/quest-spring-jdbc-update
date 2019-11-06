@@ -38,4 +38,5 @@ public class WizardController {
 
         return "wizard_get";
     }
+    
 }
